@@ -83,7 +83,7 @@ This project is a complete remake of the award-winning website **Zentry**, which
 
 ## Live Demo
 
-Check out the live demo of the Zentry remake here: [Zentry Remake Demo](#) 
+Check out the live demo of the Zentry remake here: [Zentry Remake Demo](https://zentry-remake.netlify.app/) 
 
 ---
 
